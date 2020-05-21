@@ -1,0 +1,9 @@
+package com.eldermoraes.ch02.cdi.profile;
+
+/**
+ *
+ * @author eldermoraes
+ */
+public enum ProfileType {
+    ADMIN, OPERATOR;
+}
