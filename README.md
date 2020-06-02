@@ -50,11 +50,6 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
 
-## Code in Action
-
-Click on the following link to see the Code in Action:
-
-[Placeholder link](www.youtube.com/URL)
 
 ### Related products <Other books you may enjoy>
 * Hands-On Enterprise Java Microservices with Eclipse MicroProfile [[Packt]](https://www.packtpub.com/in/web-development/hands-on-enterprise-java-microservices-with-eclipse-microprofile?utm_source=github&utm_medium=repository&utm_campaign=9781838643102) [[Amazon]](https://www.amazon.com/dp/1838643109)
