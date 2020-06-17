@@ -47,7 +47,7 @@ With the following software and hardware list you can run all code files present
 
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [https://static.packt-cdn.com/downloads/9781838642884_ColorImages.pdf](Graphics Bundle Link).
 
 
 ### Related products <Other books you may enjoy>
@@ -57,7 +57,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Elder Moraes**
-Elder Moraes helps Jakarta EE developers build and deliver secure, fast, and available applications so that they are able to work on great projects. He is passionate about content sharing; he does it by speaking at international events, blogging, and writing articles.
+helps Jakarta EE developers build and deliver secure, fast, and available applications so that they are able to work on great projects. He is passionate about content sharing; he does it by speaking at international events, blogging, and writing articles.
 He has been working with Java since 2002 and has developed applications for different industries. As a board member at SouJava, he led the Java EE 8 - The Next Frontier initiative, interviewing some world-class Java EE experts
 
 
